@@ -1,0 +1,6 @@
+Preparing data:
+- delete id column
+- change str to numerics:
+   Geschlecht: 
+    0- w
+    1-m
